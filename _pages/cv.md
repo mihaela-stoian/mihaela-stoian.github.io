@@ -7,53 +7,49 @@ redirect_from:
   - /resume
 ---
 
+
+My CV is available [here](https://github.com/mihaela-stoian/mihaela-stoian.github.io/blob/main/files/cv/MihaelaCatalinaStoian_CV09.pdf).
+
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* DPhil in Computer Science, University of Oxford (2021-present)
+* Master of Informatics with Honours, First Class, The University of Edinburgh (2014-2019)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2021: Research Intern at FiveAI, Oxford, UK
+  + Topic: Detecting Reflective Symmetries in 3D Models, Computer Vision
+  + Paper: Recurrently Estimating Reflective Symmetry Planes from Partial Pointclouds (arXiv 2021, presented at the CVPR 2021 Workshop on 3D Vision and Robotics)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019: Research Assistant at The University of Edinburgh, UK
+  + Topic: Speech-to-Text Machine Translation
+  + Publication: Analyzing ASR pretraining for low-resource speech-to-text translation (in
+  Proc. of ICASSP 2020).
 
-Publications
+
+* 2018: Student Summer Research Fellow at ETH Zurich, Switzerland
+  + Topic: Program Behaviour Synthesis
+
+
+
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2017 - 2019: Class Tutor at The University of Edinburgh, UK
+  + Processing Formal and Natural Languages
+  + Discrete Mathematics
+  + Algorithms, Data Structures and Learning
   
-Service and leadership
+Scholarships and Grants
 ======
-* Currently signed in to 43 different slack teams
+* EPSRC Scholarship for doctoral studies (October 2021 - March 2025)
+* St Hilda’s College Travel for Research Grant (May 2023, February 2024)
