@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile.jpg" alt="Photo" style="width: 570px;"/> 
+  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile.jpg" alt="Photo" style="width: 560px;"/> 
 </p>
 
 <br>
