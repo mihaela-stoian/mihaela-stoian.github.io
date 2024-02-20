@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-stoian-cdgms
 excerpt: 'In this paper, we show how deep generative models for tabular data can be constrained such that their generated samples are guaranteed to be compliant with given constraints. This is achieved by automatically parsing the constraints and transforming them into a Constraint Layer seamlessly integrated with the model.'
 date: 2024
-venue: 'Accepted at ICLR 2024'
+venue: 'arXiv (Accepted at ICLR 2024)'
 paperurl: 'https://arxiv.org/abs/2402.04823'
 citation: 'Stoian, Mihaela C., Salijona Dyrmishi, Maxime Cordy, Thomas Lukasiewicz and Eleonora Giunchiglia. “How Realistic Is Your Synthetic Data? Constraining Deep Generative Models for Tabular Data.” ArXiv abs/2402.04823 (2024).'
 ---
