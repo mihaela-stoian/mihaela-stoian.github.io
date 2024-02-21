@@ -1,7 +1,7 @@
 ---
 title: "CCN+: A neuro-symbolic framework for deep learning with requirements"
 collection: publications
-permalink: /publication/2024-journal-ccn-plus
+permalink: /publication/2024-ijar-ccn-plus
 excerpt: 'In this paper, we propose a novel neuro-symbolic framework able to make any neural network compliant by design to a given set of requirements over the output space expressed in full propositional logic. This framework, called CCN+, integrates the requirements into the output layer of the neural network by applying multiple inference rules that ensure compliance with the requirements and adapts the standard binary cross-entropy loss function to the requirement output layer.'
 date: 2024-01-22
 venue: 'International Journal of Approximate Reasoning'
