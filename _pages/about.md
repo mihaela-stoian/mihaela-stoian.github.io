@@ -18,7 +18,8 @@ I am in my third year of PhD studies in Computer Science at University of Oxford
 
 My current research interests are neuro-symbolic AI and knowledge-aided machine learning.
 
-Previously, I completed my undergraduate and master studies at The University of Edinburgh. My master's dissertation was on speech-to-text machine translation, under the supervision of Professor Sharon Goldwater.
+Previously, I was part of the research team at Five AI, where I worked on 3D perception and detecting reflective symmetries in 3D models for autonomous driving.
+Before that, I completed my undergraduate and master studies at The University of Edinburgh. My master's dissertation was on speech-to-text machine translation, under the supervision of Professor Sharon Goldwater.
 
 
 <style>
