@@ -7,7 +7,7 @@ main:
     url: /portfolio/
 
   - title: "Service"
-    url: /portfolio/
+    url: /service/
 
   - title: "CV"
     url: /cv/
