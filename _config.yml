@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Mihaela C Stoian"
+title                    : "Mihaela Catalina Stoian"
 title_separator          : "-"
-name                     : &name "Mihaela C. Stoian"
+name                     : &name "Mihaela Catalina Stoian"
 description              : &description "DPhil student in Computer Science, University of Oxford"
 url                      : https://mihaela-stoian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mihaela Catalina Stoian"
+  name             : "Mihaela C. Stoian"
   avatar           : "profile.png"
   bio              : "DPhil student in Computer Science at University of Oxford"
   location         : "Oxford, United Kingdom"
