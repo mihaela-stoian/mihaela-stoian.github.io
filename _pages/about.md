@@ -28,7 +28,7 @@ list-style-type: circle;
 </style>
 
 * [Publications](https://mihaela-stoian.github.io/publications/)
-* [Portfolio](https://mihaela-stoian.github.io/portfolio/)
+* [Service](https://mihaela-stoian.github.io/service/)
 * [CV](https://mihaela-stoian.github.io/cv/) 
 
 
