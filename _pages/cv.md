@@ -31,6 +31,7 @@ Experience
 
 * 2018: Student Summer Research Fellow at ETH Zurich, Switzerland
   + Topic: Program Behaviour Synthesis
+  + Supervisors: Professor Martin Vechev, Assistant Professor Dana Drachsler Cohen
 
 
 
