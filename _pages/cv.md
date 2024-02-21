@@ -41,7 +41,7 @@ Selected Publications
   {% endfor %}</ul>
   
 
-   
+    
 Teaching
 ======
 * 2017 - 2019: Class Tutor at The University of Edinburgh, UK
