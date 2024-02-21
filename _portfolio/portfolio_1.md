@@ -1,6 +1,6 @@
 ---
 title: "Organiser for the ROAD-R challenge"
-excerpt: "ROAD-R 2023: the Road Event Detection with Requirements Challenge, hosted by NeurIPS 2023."
+excerpt: "ROAD-R 2023: The Road Event Detection with Requirements Challenge, hosted by NeurIPS 2023."
 collection: portfolio
 ---
 
