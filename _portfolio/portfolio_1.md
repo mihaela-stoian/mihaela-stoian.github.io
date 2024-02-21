@@ -5,3 +5,5 @@ collection: portfolio
 ---
 
 The official website for the Challenge is available [here](https://sites.google.com/view/road-r/).
+
+![Alt text](images/road.gif)
