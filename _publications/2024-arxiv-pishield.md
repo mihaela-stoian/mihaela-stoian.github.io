@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-arxiv-pishield
 excerpt: "In this paper, we introduce PiShield, the first framework ever allowing for the integration of (propositional or linear) requirements into the neural networks' topology. PiShield guarantees compliance with these requirements, regardless of input."
 date: 2024-01-01
-venue: arXiv preprint 2402.18285
+venue: arXiv
 paperurl: 'https://arxiv.org/abs/2402.18285'
 citation: 'Mihaela C. Stoian, Alex Tatomir, Thomas Lukasiewicz, Eleonora Giunchiglia. PiShield: A NeSy Framework for Learning with Requirements. arXiv preprint 2402.18285, 2024.'
 ---
