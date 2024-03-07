@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           {% if post.venue == 'arxiv' %}
             <p>arXiv preprint, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% elsif post.venue %}
+          {% else %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% endif %}
         {% elsif post.date %}
