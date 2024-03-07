@@ -6,7 +6,7 @@ excerpt: "In this paper, we introduce PiShield, the first framework ever allowin
 date: 2024-01-01
 venue: arXiv
 arxiv: yes
-paperurl: 'https://arxiv.org/abs/2402.18285'
+paperurl: ''
 citation: 'Mihaela C. Stoian, Alex Tatomir, Thomas Lukasiewicz, Eleonora Giunchiglia. PiShield: A NeSy Framework for Learning with Requirements. arXiv preprint 2402.18285, 2024.'
 ---
 
