@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-nesy-tnorms
 excerpt: 'In this paper, we show how it is possible to define memory-efficient t-norm-based losses, allowing for exploiting t-norms for the task of event detection in autonomous driving.'
 date: 2023-06-01
-venue: 'NeSy'
+venue: 'The Proceedings of NeSy'
 paperurl: ''
 citation: 'Mihaela C. Stoian, Eleonora Giunchiglia, Thomas Lukasiewicz. Exploiting T-norms for Deep Learning in Autonomous Driving. In Proceedings of the 17th International Workshop on Neural-Symbolic Learning and Reasoning (NeSy), 2023.'
 ---
