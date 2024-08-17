@@ -13,3 +13,5 @@ Deep learning models have repeatedly shown their strengths in various applicatio
 However, their predictions often struggle to meet background knowledge requirements, which is a crucial condition for safety-critical systems. 
 My research focuses on integrating requirements into neural networks to guide the learning process and ultimately produce outputs that ensure the requirements’ satisfaction. 
 Here, I will discuss my proposed methods in the context of two real-world applications: tabular data generation and autonomous driving.
+
+Paper available [here](https://www.ijcai.org/proceedings/2024/969).
