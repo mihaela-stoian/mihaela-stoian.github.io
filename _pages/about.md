@@ -14,13 +14,12 @@ redirect_from:
 
 <br>
 
-I am in my third year of PhD studies in Computer Science at University of Oxford. My supervisor is Professor Thomas Lukasiewicz.
+I am currently in my third year of PhD studies in Computer Science at University of Oxford, supervised by Professor Thomas Lukasiewicz.
 
-My current research interests are neuro-symbolic AI and knowledge-aided machine learning.
+My research interests focus on neuro-symbolic AI and knowledge-aided machine learning.
 
-Previously, I was part of the research team at Five AI, where I worked on 3D perception and detecting reflective symmetries in 3D models for autonomous driving.
-Before that, I completed my undergraduate and master studies at The University of Edinburgh. My master's dissertation was on speech-to-text machine translation, under the supervision of Professor Sharon Goldwater.
-
+Previously, I was part of the research team at Five AI, where I worked on 3D perception and detecting reflective symmetries in 3D models for autonomous driving. 
+I completed my undergraduate and master's degrees at The University of Edinburgh, with my master's dissertation centered on speech-to-text machine translation, supervised by Professor Sharon Goldwater.
 
 <style>
 ul {
