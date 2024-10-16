@@ -14,7 +14,7 @@ redirect_from:
 
 <br>
 
-I am currently in my third year of PhD studies in Computer Science at University of Oxford, supervised by Professor Thomas Lukasiewicz.
+I am currently in my fourth year of PhD studies in Computer Science at University of Oxford, supervised by Professor Thomas Lukasiewicz.
 
 My research interests focus on neuro-symbolic AI and knowledge-aided machine learning.
 
