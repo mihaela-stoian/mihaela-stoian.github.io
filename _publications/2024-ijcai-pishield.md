@@ -3,7 +3,7 @@ title: "PiShield: A PyTorch Package for Learning with Requirements"
 collection: publications
 permalink: /publication/2024-ijcai-pishield
 excerpt: "In this paper, we introduce PiShield, the first package ever allowing for the integration of (propositional or linear) requirements into the neural networks' topology. PiShield guarantees compliance with these requirements, regardless of input."
-date: 2024-01-01
+date: 2024-01-30
 venue: 'The Proceedings of IJCAI'
 paperurl: ''
 citation: 'Mihaela C. Stoian, Alex Tatomir, Thomas Lukasiewicz, Eleonora Giunchiglia. PiShield: A PyTorch Package for Learning with Requirements. arXiv preprint 2402.18285, 2024. Accepted at IJCAI 2024.'
