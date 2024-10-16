@@ -54,3 +54,4 @@ Scholarships and Grants
 ======
 * EPSRC Scholarship for doctoral studies (October 2021 - March 2025)
 * St Hilda’s College Travel for Research Grant (May 2023, February 2024)
+* IJCAI-AIJ 2024 Travel Grant Program (2024)
