@@ -5,7 +5,7 @@ permalink: /publication/2020-icassp-speech-to-text
 excerpt: 'In this paper we explore what factors help pretraining for low-resource automatic speech-to-text translation (AST). We show that the word error rate (WER) of the pre-trained automatic speech recognition (ASR) models is likely the best direct predictor of AST performance. Additionally, our analysis suggests that the models with better WER are transparently encoding more language-universal phonetic information in the later RNN layers, and this appears to help with AST.'
 date: 2020-05-01
 venue: 'The Proceedings of ICASSP'
-paperurl: ''
+paperurl: 'https://doi.org/10.48550/arXiv.1910.10762'
 citation: 'Mihaela C. Stoian, Sameer Bansal, Sharon Goldwater. Analyzing ASR pretraining for low-resource speech-to-text translation. In Proceedings of ICASSP, 2020.'
 ---
 

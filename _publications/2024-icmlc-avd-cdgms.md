@@ -5,7 +5,7 @@ permalink: /publication/2024-icmlc-adv-cdgms
 excerpt: 'In this paper, we adapt popular tabular deep generative models (DGMs) into adversarial DGMs and evaluate their effectiveness in generating realistic adversarial examples that conform to domain constraints.'
 date: 2024-01-28
 venue: 'The Proceedings of International Conference on Machine Learning and Cybernetics'
-paperurl: ''
+paperurl: 'https://doi.org/10.48550/arXiv.2409.12642'
 citation: 'Salijona Dyrmishi, Mihaela C. Stoian, Eleonora Giunchiglia, Maxime Cordy. Deep generative models as an adversarial attack strategy for tabular machine learning. In Proceedings of International Conference on Machine Learning and Cybernetics 2024.'
 ---
 

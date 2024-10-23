@@ -5,7 +5,7 @@ permalink: /publication/2024-ijcai-dc
 excerpt: "In this position paper, I discuss my research on integrating requirements into neural networks to guide the learning process and ultimately produce outputs that ensure the requirements’ satisfaction for two real-world applications: tabular data generation and autonomous driving."
 date: 2024-01-02
 venue: 'The Proceedings of IJCAI'
-paperurl: ''
+paperurl: 'https://doi.org/10.24963/ijcai.2024/969'
 citation: 'Mihaela C. Stoian. Deep Learning with Requirements in the Real World. Accepted at IJCAI 2024 Doctoral Consortium.'
 ---
 

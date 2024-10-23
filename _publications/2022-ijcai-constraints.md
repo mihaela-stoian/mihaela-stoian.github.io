@@ -5,7 +5,7 @@ permalink: /publication/2022-ijcai-constraints
 excerpt: 'In this survey, we retrace works which exploit logically specified background knowledge in order to obtain neural models (i) with a better performance, (ii) able to learn from less data, and/or (iii) guaranteed to be compliant with the background knowledge itself, e.g., for safety-critical applications.'
 date: 2022-05-01
 venue: 'The Proceedings of IJCAI, Survey Track'
-paperurl: ''
+paperurl: 'https://doi.org/10.24963/ijcai.2022/767'
 citation: 'Eleonora Giunchiglia, Mihaela C. Stoian, Thomas Lukasiewicz. Deep Learning with Logical Constraints. In Proceedings of International Joint Conference on Artificial Intelligence, 2022.'
 ---
 

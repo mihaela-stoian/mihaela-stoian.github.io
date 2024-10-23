@@ -7,7 +7,7 @@ excerpt: 'In this paper, we introduce the ROad event Awareness Dataset with logi
 The paper was presented at IJCLR 2022, where it received the Best Student Paper Prize, and at IJCAI 2022 Workshop on Artificial Intelligence for Autonomous Driving, where it received the Best Paper Award.'
 date: 2023-05-01
 venue: 'Machine Learning'
-paperurl: ''
+paperurl: 'https://doi.org/10.1007/s10994-023-06322-z'
 citation: 'Eleonora Giunchiglia, Mihaela C. Stoian, Salman Khan, Fabio Cuzzolin, Thomas Lukasiewicz. ROAD-R: The Autonomous Driving Dataset with Logical Requirements. Machine Learning, 112, 3261–3291 (2023).'
 ---
 

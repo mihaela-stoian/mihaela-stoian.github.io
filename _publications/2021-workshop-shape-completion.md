@@ -5,7 +5,7 @@ permalink: /publication/2021-workshop-shape-completion
 excerpt: 'In this paper we present a novel method to estimate planar reflective symmetries that efficiently handles 3D inputs by slicing the data along the height dimension and passing it sequentially to a 2D convolutional recurrent regression scheme.'
 date: 2021-06-30
 venue: 'CVPR 2021 Workshop on 3D Vision and Robotics'
-paperurl: ''
+paperurl: 'https://doi.org/10.48550/arXiv.2106.16129'
 citation: 'Mihaela C. Stoian, Tommaso Cavallari. Recurrently Estimating Reflective Symmetry Planes from Partial Pointclouds. CVPR Workshop on 3D Vision and Robotics, 2021.'
 ---
 
