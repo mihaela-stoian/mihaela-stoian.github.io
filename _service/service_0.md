@@ -1,5 +1,5 @@
 ---
-title: "Organiser for the ROAD-R challenge"
+title: "Organiser for the third ROAD++ Workshop & Challenge"
 excerpt: "ROAD++: The Third Workshop & Challenge: Event Detection for Situation Awareness in Autonomous Driving, hosted by ECCV 2024."
 collection: service
 ---

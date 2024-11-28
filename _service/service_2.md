@@ -1,5 +1,5 @@
 ---
-title: "Organiser for the ROAD++ workshop and challenge"
+title: "Organiser for the second ROAD++ Workshop & Challenge"
 excerpt: "ROAD++: The Second Workshop & Challenge on Event Detection for Situation Awareness in Autonomous Driving, hosted by ICCV 2023."
 collection: service
 ---
