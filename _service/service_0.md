@@ -4,5 +4,5 @@ excerpt: "ROAD++: The Third Workshop & Challenge: Event Detection for Situation 
 collection: service
 ---
 
-The official website for the Workshop and Challenge is available [here](https://sites.google.com/view/road-eccv2024/home).
+The official website for the Workshop and Challenge is available [here](https://sites.google.com/view/road-eccv2024/home). 
 
