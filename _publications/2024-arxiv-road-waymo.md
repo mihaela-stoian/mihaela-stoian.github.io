@@ -3,7 +3,7 @@ title: "ROAD-Waymo: Action Awareness at Scale for Autonomous Driving"
 collection: publications
 permalink: /publication/2024-arxiv-road-waymo
 excerpt: "In this paper, we introduce ROAD-Waymo, an extensive dataset for the development and benchmarking of techniques for agent, action, location and event detection in road scenes, provided as a layer upon the (US) Waymo Open dataset. As ROAD-Waymo is compatible with the original (UK) ROAD dataset, it provides the opportunity to tackle domain adaptation between real-world road scenarios in different countries within a novel benchmark: ROAD++."
-date: 2024-01-29
+date: 2024-01-01
 venue: 'arxiv preprint 2411.01683'
 arxiv: True
 paperurl: 'https://doi.org/10.48550/arXiv.2411.01683'
