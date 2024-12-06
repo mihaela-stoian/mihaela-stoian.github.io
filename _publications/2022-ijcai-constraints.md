@@ -6,7 +6,7 @@ excerpt: 'In this survey, we retrace works which exploit logically specified bac
 date: 2022-05-01
 venue: 'The Proceedings of IJCAI, Survey Track'
 paperurl: 'https://doi.org/10.24963/ijcai.2022/767'
-citation: 'Eleonora Giunchiglia, Mihaela C. Stoian, Thomas Lukasiewicz. Deep Learning with Logical Constraints. In Proceedings of International Joint Conference on Artificial Intelligence, 2022.'
+citation: 'Eleonora Giunchiglia, Mihaela C. Stoian, Thomas Lukasiewicz. Deep Learning with Logical Constraints. In Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2022.'
 ---
 
 In recent years, there has been an increasing interest in exploiting logically specified background knowledge in order to obtain neural models (i) with a better performance, (ii) able to learn from less data, and/or (iii) guaranteed to be compliant with the background knowledge itself, e.g., for safety-critical applications. In this survey, we retrace such works and categorize them based on (i) the logical language that they use to express the background knowledge and (ii) the goals that they achieve. 
