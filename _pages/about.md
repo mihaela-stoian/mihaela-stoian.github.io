@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<!--- 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile.jpg" alt="Photo" style="width: 690px;"/> 
 </p>
+-->
 
 <br>
 
