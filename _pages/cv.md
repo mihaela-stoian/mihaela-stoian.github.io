@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-My CV is available [here](https://github.com/mihaela-stoian/mihaela-stoian.github.io/blob/main/files/cv/MihaelaCatalinaStoian_CV09.pdf).
+[//]: # (My CV is available [here]&#40;https://github.com/mihaela-stoian/mihaela-stoian.github.io/blob/main/files/cv/MihaelaCatalinaStoian_CV09.pdf&#41;.)
+My CV is available [here](https://github.com/mihaela-stoian/mihaela-stoian.github.io/blob/main/files/cv/longCV_MihaelaCatalinaStoian.pdf).
 
 {% include base_path %}
 
