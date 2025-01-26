@@ -16,13 +16,14 @@ redirect_from:
 
 <br>
 
-I am currently in my fourth year of PhD studies in Computer Science at University of Oxford, supervised by Professor Thomas Lukasiewicz.
+I am a final-year PhD student in the Department of Computer Science at the University of Oxford, supervised by Professor Thomas Lukasiewicz.
+During my PhD I have worked on constraining deep generative models for tabular data and incorporating logical constraints into deep learning systems, with applications such as autonomous driving. 
 
-My research interests focus on neuro-symbolic AI and knowledge-aided machine learning.
+Before starting my PhD, I worked on 3D perception and detecting reflective symmetries in 3D models at Five AI, following my Bachelor's and Master's degree at The University of Edinburgh. 
+My Master's thesis, supervised by Professor Sharon Goldwater, focused on speech-to-text machine translation.
 
-Previously, I was part of the research team at Five AI, where I worked on 3D perception and detecting reflective symmetries in 3D models for autonomous driving. 
-I completed my undergraduate and master's degrees at The University of Edinburgh. 
-My master's thesis, supervised by Professor Sharon Goldwater, focused on speech-to-text machine translation.
+My current research centers on knowledge-aided machine learning, with an emphasis on advancing neuro-symbolic AI to address real-world applications.
+
 
 <style>
 ul {
