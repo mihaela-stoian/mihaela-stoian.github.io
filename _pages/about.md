@@ -10,11 +10,13 @@ redirect_from:
 
 <!--- 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile.jpg" alt="Photo" style="width: 690px;"/> 
+  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 690px;"/> 
 </p>
 -->
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 620px; height: 450px"/> 
+</p>
 
 <br>
 
