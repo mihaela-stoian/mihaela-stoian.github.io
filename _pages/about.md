@@ -8,22 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!--- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 690px;"/> 
-</p>
--->
-
-<!---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 620px; height: 450px"/> 
-</p>
--->
-
- 
-
-<br>
-
 I am a final-year PhD student in the Department of Computer Science at the University of Oxford, supervised by Professor Thomas Lukasiewicz.
 During my PhD I have worked on constraining deep generative models for tabular data and incorporating logical constraints into deep learning systems, with applications such as autonomous driving. 
 
@@ -62,3 +46,15 @@ list-style-type: circle;
 <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_163947.jpg" alt="Photo" style="width: 320px;"/> 
   <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_164114.jpg" alt="Photo" style="width: 320px;"/> 
 </p>
+
+<!--- 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 690px;"/> 
+</p>
+-->
+
+<!---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 620px; height: 450px"/> 
+</p>
+-->
