@@ -29,7 +29,7 @@ Experience
 ======
 * 2020 - 2021: Research Intern at FiveAI, Oxford, UK
   + Topic: Detecting Reflective Symmetries in 3D Models, Computer Vision
-  + [Paper](https://arxiv.org/abs/2106.16129): Recurrently Estimating Reflective Symmetry Planes from Partial Pointclouds (arXiv 2021, presented at the CVPR 2021 Workshop on 3D Vision and Robotics)
+  + [Paper](https://arxiv.org/abs/2106.16129): Recurrently Estimating Reflective Symmetry Planes from Partial Pointclouds (CVPR 2021 Workshop on 3D Vision and Robotics)
 
 * 2019: Research Assistant at The University of Edinburgh, UK
   + Topic: Speech-to-Text Machine Translation
