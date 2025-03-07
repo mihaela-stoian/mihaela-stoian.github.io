@@ -57,6 +57,7 @@ list-style-type: circle;
 <p align="center">
  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 320px;"/>
   <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230407_133724.jpg" alt="Photo" style="width: 320px;"/>
+<br>
 <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_163947.jpg" alt="Photo" style="width: 320px;"/> 
   <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_164114.jpg" alt="Photo" style="width: 320px;"/> 
 </p>
