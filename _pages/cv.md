@@ -18,6 +18,13 @@ Education
 * DPhil in Computer Science, University of Oxford (2021-present)
 * Master of Informatics with Honours, First Class, The University of Edinburgh (2014-2019)
 
+Scholarships and Grants
+======
+* EPSRC Scholarship for doctoral studies (October 2021 - March 2025)
+* G-Research Women in Quant Finance Grant (February 2025)
+* St Hilda’s College Travel for Research Grant (May 2023, February 2024)
+* IJCAI-AIJ 2024 Travel Grant Program (2024)
+
 Experience
 ======
 * 2020 - 2021: Research Intern at FiveAI, Oxford, UK
@@ -51,8 +58,3 @@ Teaching
   + Discrete Mathematics
   + Algorithms, Data Structures and Learning
   
-Scholarships and Grants
-======
-* EPSRC Scholarship for doctoral studies (October 2021 - March 2025)
-* St Hilda’s College Travel for Research Grant (May 2023, February 2024)
-* IJCAI-AIJ 2024 Travel Grant Program (2024)
