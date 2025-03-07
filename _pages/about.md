@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am a final-year PhD student in the Department of Computer Science at the University of Oxford, supervised by Professor Thomas Lukasiewicz.
 During my PhD I have worked on constraining deep generative models for tabular data and incorporating logical constraints into deep learning systems, with applications such as autonomous driving. 
 
