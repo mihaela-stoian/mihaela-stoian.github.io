@@ -14,9 +14,18 @@ redirect_from:
 </p>
 -->
 
+<!---
 <p align="center">
   <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 620px; height: 450px"/> 
 </p>
+-->
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 320px;"/>
+  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230407_133724.jpg" alt="Photo" style="width: 320px;"/> 
+</p>
+
 
 <br>
 
@@ -40,5 +49,17 @@ list-style-type: circle;
 * [CV](https://mihaela-stoian.github.io/cv/) 
 
 
+<!---
+<p align="center">
+<img src="../images/profile/IMG_20230615_141536.jpg" alt="Photo" style="width: 220px;"/> 
+    <img src="../images/profile/IMG_20231123_143104.jpg" alt="Photo" style="width: 220px;"/> 
+  <img src="../images/profile/IMG_20220712_212401.jpg" alt="Photo" style="width: 220px;"/>
+</p>
+-->
 
 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_163947.jpg" alt="Photo" style="width: 320px;"/> 
+  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_164114.jpg" alt="Photo" style="width: 320px;"/> 
+</p>
