@@ -21,6 +21,9 @@ My current research centers on knowledge-aided machine learning, with an emphasi
 ul {
 list-style-type: circle;
 }
+img {
+  border: 5px solid #FFFFFF;
+}
 </style>
 
 * [Publications](https://mihaela-stoian.github.io/publications/)
@@ -37,14 +40,11 @@ list-style-type: circle;
 -->
 
 
-
 <p align="center">
- <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 320px;"/>
-  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230407_133724.jpg" alt="Photo" style="width: 320px;"/>
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_163947.jpg" alt="Photo" style="width: 320px;"/> 
-  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_164114.jpg" alt="Photo" style="width: 320px;"/> 
+ <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 350px;"/>
+  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230407_133724.jpg" alt="Photo" style="width: 350px;"/>
+ <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_163947.jpg" alt="Photo" style="width: 350px;"/> 
+  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_164114.jpg" alt="Photo" style="width: 350px;"/> 
 </p>
 
 <!--- 
@@ -58,3 +58,5 @@ list-style-type: circle;
   <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 620px; height: 450px"/> 
 </p>
 -->
+
+
