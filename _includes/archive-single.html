@@ -66,11 +66,11 @@
 <!--      <p><a href="{{ post.slidesurl }}">Download Slides</a></p>-->
 <!--    {% endif %}-->
 
-    {% if post.citation and post.link %}
+    {% if post.citation and post.url %}
       <p>Citation: {{ post.citation }}<br /><a href="{{ post.url }}">Read more</a></p>
     {% elsif post.citation %}
       <p>Citation: {{ post.citation }}</p>
-    {% elsif post.link %}
+    {% elsif post.url %}
       <p><a href=" {{ post.url }} ">Read more</a></p>
     {% endif %}
 
