@@ -27,8 +27,10 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.paperurl %}
+      {% if post.paperurl and post.collection == 'publications' %}
         <a href="{{ post.paperurl }}">{{ title }}</a> <a href="{{ post.paperurl }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% elsif post.service_url and post.collection == 'service' %}
+        <a href="{{ post.service_url }}">{{ title }}</a> <a href="{{ post.service_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
