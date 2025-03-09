@@ -66,14 +66,17 @@
 <!--      <p><a href="{{ post.slidesurl }}">Download Slides</a></p>-->
 <!--    {% endif %}-->
 
-    {% if post.citation and post.url %}
-<!--      <p>Citation: {{ post.citation }}<br /><a href="{{ post.url }}">Read more</a></p>-->
-      <p style="line-height : 20px;"><small>Citation: {{ post.citation }}</small><br /><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></p>
-    {% elsif post.citation %}
-      <p style="line-height : 20px;"><small>Citation: {{ post.citation }}</small></p>
-    {% elsif post.url %}
+<!--    {% if post.citation and post.url %}-->
+<!--&lt;!&ndash;      <p>Citation: {{ post.citation }}<br /><a href="{{ post.url }}">Read more</a></p>&ndash;&gt;-->
+<!--      <p style="line-height : 20px;"><small>Citation: {{ post.citation }}</small><br /><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></p>-->
+<!--    {% elsif post.citation %}-->
+<!--      <p style="line-height : 20px;"><small>Citation: {{ post.citation }}</small></p>-->
+<!--    {% elsif post.url %}-->
 <!--      <p><a href=" {{ post.url }} ">Read more</a></p>-->
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a>
+<!--      <a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a>-->
+<!--    {% endif %}-->
+    {% if post.citation %}-->
+      <p style="line-height : 20px;"><small>Citation: {{ post.citation }}</small></p>
     {% endif %}
 
   </article>
