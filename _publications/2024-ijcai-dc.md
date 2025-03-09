@@ -6,7 +6,7 @@ excerpt: "In this position paper, I discuss my research on integrating requireme
 date: 2024-01-02
 venue: 'The Proceedings of IJCAI'
 paperurl: 'https://doi.org/10.24963/ijcai.2024/969'
-citation: 'Mihaela C. Stoian. Deep Learning with Requirements in the Real World. In Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2024, Doctoral Consortium.'
+#citation: 'Mihaela C. Stoian. Deep Learning with Requirements in the Real World. In Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), 2024, Doctoral Consortium.'
 ---
 
 Deep learning models have repeatedly shown their strengths in various application domains. 

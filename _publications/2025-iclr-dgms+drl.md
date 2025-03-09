@@ -6,7 +6,7 @@ excerpt: 'In this paper, we introduce the Disjunctive Refinement Layer (DRL), a 
 date: 2025-01-22
 venue: 'The Proceedings of ICLR'
 #paperurl: 'https://doi.org/10.48550/arXiv.2402.04823'
-citation: 'Mihaela C. Stoian and Eleonora Giunchiglia. Beyond the Convexity Assumption: Realistic Tabular Data Generation under Quantifier-Free Real Linear Constraints. Accepted at International Conference on Learning Representations (ICLR) 2025.'
+#citation: 'Mihaela C. Stoian and Eleonora Giunchiglia. Beyond the Convexity Assumption: Realistic Tabular Data Generation under Quantifier-Free Real Linear Constraints. Accepted at International Conference on Learning Representations (ICLR) 2025.'
 ---
 
 Synthetic tabular data generation has traditionally been a challenging problem due to the high complexity of the underlying
