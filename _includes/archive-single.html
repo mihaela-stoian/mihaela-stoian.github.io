@@ -68,9 +68,9 @@
 
     {% if post.citation and post.url %}
 <!--      <p>Citation: {{ post.citation }}<br /><a href="{{ post.url }}">Read more</a></p>-->
-      <p><small><small>Citation: {{ post.citation }}</small></small><br /><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></p>
+      <p><small>Citation: {{ post.citation }}</small><br /><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></p>
     {% elsif post.citation %}
-      <p><small><small>Citation: {{ post.citation }}</small></small></p>
+      <p><small>Citation: {{ post.citation }}</small></p>
     {% elsif post.url %}
 <!--      <p><a href=" {{ post.url }} ">Read more</a></p>-->
       <a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a>
