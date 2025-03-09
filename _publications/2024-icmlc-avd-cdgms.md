@@ -12,4 +12,4 @@ citation: 'Salijona Dyrmishi, Mihaela C. Stoian, Eleonora Giunchiglia, Maxime Co
 Deep Generative Models (DGMs) have found application in computer vision for generating adversarial examples to test the robustness of machine learning (ML) systems. Extending these adversarial techniques to tabular ML presents unique challenges due to the distinct nature of tabular data and the necessity to preserve domain constraints in adversarial examples. 
 In this paper, we adapt four popular tabular DGMs into adversarial DGMs (AdvDGMs) and evaluate their effectiveness in generating realistic adversarial examples that conform to domain constraints.
 
-Paper available [here](https://arxiv.org/abs/2409.12642).
+[//]: # (Paper available [here]&#40;https://arxiv.org/abs/2409.12642&#41;.)

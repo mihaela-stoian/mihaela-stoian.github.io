@@ -14,4 +14,4 @@ However, their predictions often struggle to meet background knowledge requireme
 My research focuses on integrating requirements into neural networks to guide the learning process and ultimately produce outputs that ensure the requirements’ satisfaction. 
 Here, I will discuss my proposed methods in the context of two real-world applications: tabular data generation and autonomous driving.
 
-Paper available [here](https://www.ijcai.org/proceedings/2024/969).
+[//]: # (Paper available [here]&#40;https://www.ijcai.org/proceedings/2024/969&#41;.)

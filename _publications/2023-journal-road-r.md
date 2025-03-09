@@ -17,4 +17,4 @@ Notes: The paper was presented at:
 * IJCLR 2022, where it received the Best Student Paper Prize.
 * IJCAI 2022 [Workshop on Artificial Intelligence for Autonomous Driving](https://learn-to-race.org/workshop-ai4ad-ijcai2022), where it received the Best Paper Award.
 
-Paper available [here](https://arxiv.org/abs/2210.01597).
+[//]: # (Paper available [here]&#40;https://arxiv.org/abs/2210.01597&#41;.)

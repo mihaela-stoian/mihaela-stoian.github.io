@@ -5,8 +5,8 @@ permalink: /publication/2025-iclr-dgms+drl
 excerpt: 'In this paper, we introduce the Disjunctive Refinement Layer (DRL), a novel layer designed to enforce the alignment of generated data with the background knowledge specified in user-defined constraints. DRL is the first method able to automatically make deep learning models inherently compliant with constraints as expressive as quantifier-free linear formulas, which can define non-convex and even disconnected spaces.'
 date: 2025-01-22
 venue: 'The Proceedings of ICLR'
-#paperurl: 'https://doi.org/10.48550/arXiv.2402.04823'
-citation: 'Mihaela C. Stoian and Eleonora Giunchiglia. Beyond the Convexity Assumption: Realistic Tabular Data Generation under Quantifier-Free Real Linear Constraints. Accepted at International Conference on Learning Representations (ICLR) 2025.'
+paperurl: 'https://doi.org/10.48550/arXiv.2502.18237'
+citation: 'Mihaela C. Stoian and Eleonora Giunchiglia. Beyond the Convexity Assumption: Realistic Tabular Data Generation under Quantifier-Free Real Linear Constraints. In Proceedings of International Conference on Learning Representations (ICLR) 2025.'
 ---
 
 Synthetic tabular data generation has traditionally been a challenging problem due to the high complexity of the underlying
