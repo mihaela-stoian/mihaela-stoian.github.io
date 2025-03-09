@@ -46,12 +46,9 @@ layout: default
         
              
         {% if page.citation and page.paperurl %}
-          <p style="line-height : 20px;"><small>{{ post.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></small></p>
-<!--          <p>{{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>-->
+          <p>{{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
-<!--          <p>{{ page.citation }} </p>-->
-          <p style="line-height : 20px;"><small>{{ post.citation }}</small></p>
-
+          <p>{{ page.citation }} </p>
         {% endif %}
     
         </header>
