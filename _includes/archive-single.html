@@ -67,11 +67,11 @@
 <!--    {% endif %}-->
 
     {% if post.citation and post.link %}
-      <p>Citation: {{ post.citation }}<br /><a href="{{ post.link }}">Read more</a></p>
+      <p>Citation: {{ post.citation }}<br /><a href="{{ post.url }}">Read more</a></p>
     {% elsif post.citation %}
       <p>Citation: {{ post.citation }}</p>
     {% elsif post.link %}
-      <p><a href=" {{ post.link }} ">Read more</a></p>
+      <p><a href=" {{ post.url }} ">Read more</a></p>
     {% endif %}
 
   </article>
