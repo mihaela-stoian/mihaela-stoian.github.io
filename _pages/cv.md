@@ -27,21 +27,35 @@ Scholarships and Grants
 
 Experience
 ======
-* 2020 - 2021: Research Intern at FiveAI, Oxford, UK
+* Research Intern at FiveAI, Oxford, UK (2020 - 2021)
   + Topic: Detecting Reflective Symmetries in 3D Models, Computer Vision
   + [Paper](https://arxiv.org/abs/2106.16129): Recurrently Estimating Reflective Symmetry Planes from Partial Pointclouds (CVPR 2021 Workshop on 3D Vision and Robotics)
 
-* 2019: Research Assistant at The University of Edinburgh, UK
+* Research Assistant at The University of Edinburgh, UK (2019)
   + Topic: Speech-to-Text Machine Translation
   + [Paper](https://arxiv.org/abs/1910.10762): Analyzing ASR pretraining for low-resource speech-to-text translation (in
   Proc. of ICASSP 2020).
 
-
-* 2018: Student Summer Research Fellow at ETH Zurich, Switzerland
+* Student Summer Research Fellow at ETH Zurich, Switzerland (2018)
   + Topic: Program Behaviour Synthesis
   + Supervisors: Professor Martin Vechev, Assistant Professor Dana Drachsler Cohen
 
 
+
+Recent Talks
+======
+* Dagstuhl Seminar on Logic and Neural Networks (February 2025)
+* IJCAI Doctoral Consortium (August 2024)
+* Oxford Computer Science Conference (June 2024)
+* University of Luxembourg (June 2024)
+* Sony AI (April 2024)
+      
+Teaching
+======
+* Class Tutor at The University of Edinburgh, UK (2017 - 2019)
+  + Processing Formal and Natural Languages
+  + Discrete Mathematics
+  + Algorithms, Data Structures and Learning
 
 Publications
 ======
@@ -50,11 +64,3 @@ Publications
   {% endfor %}</ul>
   
 
-      
-Teaching
-======
-* 2017 - 2019: Class Tutor at The University of Edinburgh, UK
-  + Processing Formal and Natural Languages
-  + Discrete Mathematics
-  + Algorithms, Data Structures and Learning
-  
