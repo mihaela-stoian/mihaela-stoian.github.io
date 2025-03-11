@@ -205,6 +205,11 @@ body:hover .visually-hidden button {
     color: $bluesky-color;
   }
 
+  .fa-currentplace,
+  .fa-currentplace-square {
+    color: $currentplace-color;
+  }
+
   .fa-behance,
   .fa-behance-square {
     color: $behance-color;

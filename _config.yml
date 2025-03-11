@@ -87,10 +87,11 @@ author:
   location         : "Oxford, United Kingdom"
   employer         :
   pubmed           :
+  currentplace     : "https://www.cs.ox.ac.uk/people/mihaela.stoian/"
   googlescholar    : "https://scholar.google.com.co/citations?hl=en&pli=1&user=B_48apwAAAAJ"
   email            : "mihaela.stoian@cs.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
