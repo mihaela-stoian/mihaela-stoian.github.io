@@ -20,6 +20,7 @@ Education
 
 Scholarships and Grants
 ======
+* G-Research 2025 Oxford PhD Runner-up Prize (May 2025)
 * EPSRC Scholarship for doctoral studies (October 2021 - March 2025)
 * G-Research Women in Quant Finance Grant (February 2025)
 * St Hilda’s College Travel for Research Grant (May 2023, February 2024)
