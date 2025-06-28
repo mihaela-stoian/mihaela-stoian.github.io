@@ -20,7 +20,7 @@ Education
 
 Awards
 ======
-* **Oxford PhD Runner-up Prize** awarded by G-Research (May 2025)
+* **[Oxford PhD Runner-up Prize](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-oxford/)** awarded by G-Research (May 2025)
 * **EPSRC Scholarship for doctoral studies** awarded by University of Oxford (October 2021 - March 2025)
 * **Women in Quant Finance Grant** awarded by G-Research (February 2025)
 * **IJCAI Grant** awarded by IJCAI-AIJ (2024)
