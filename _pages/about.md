@@ -25,6 +25,7 @@ redirect_from:
 
 I am a final-year PhD student in the [Department of Computer Science](https://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), supervised by Professor Thomas Lukasiewicz.
 In my research, I develop neuro-symbolic methods that integrate background knowledge constraints into neural networks, enforcing them during both training and inference. 
+
 I am particularly interested in incorporating such constraints into deep generative models for synthesising realistic tabular data. 
 During my PhD, I demonstrated that complex constraints&mdash;from linear inequalities to disjunctions over linear inequalities that model non-convex and even disconnected spaces&mdash;can be successfully integrated during training to enhance the quality of synthetic data. 
 
@@ -35,13 +36,13 @@ I completed my Bachelor's and Master's at [The University of Edinburgh](https://
 [//]: # ( My work has been recognised with several awards, including the Oxford PhD Runner-up Prize awarded by G-Research. )
 
 
-### <span style="color:goldenrod;">News:</span>
-* May 2025: I received the [Oxford PhD Runner-up Prize](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-oxford/) awarded by G-Research!
+## <span style="color:goldenrod;">News:</span>
+* May 2025: I received the [**Oxford PhD Runner-up Prize**](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-oxford/) awarded by G-Research!
 * April 2025: Presented at ICLR my recent [work](https://arxiv.org/abs/2502.18237) on deep generative modelling with constraints captured as quantifier-free linear real arithmetic formulae.
 * February 2025: I attended the Dagstuhl Seminar on Logic and Neural Networks and presented the work I conducted during my PhD.
 
 [//]: # (### Sitemap:)
-### <span style="color:goldenrod;">Sitemap:</span>
+## <span style="color:goldenrod;">Sitemap:</span>
 
 <style>
 ul {
