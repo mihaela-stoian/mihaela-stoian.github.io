@@ -18,15 +18,17 @@ Education
 * DPhil in Computer Science, University of Oxford (2021-present)
 * Master of Informatics with Honours, First Class, The University of Edinburgh (2014-2019)
 
-Scholarships and Grants
+Awards
 ======
-* G-Research 2025 Oxford PhD Runner-up Prize (May 2025)
-* EPSRC Scholarship for doctoral studies (October 2021 - March 2025)
-* G-Research Women in Quant Finance Grant (February 2025)
-* St Hilda’s College Travel for Research Grant (May 2023, February 2024)
-* IJCAI-AIJ 2024 Travel Grant Program (2024)
+* **Oxford PhD Runner-up Prize** awarded by G-Research (May 2025)
+* **EPSRC Scholarship for doctoral studies** awarded by University of Oxford (October 2021 - March 2025)
+* **Women in Quant Finance Grant** awarded by G-Research (February 2025)
+* **IJCAI Grant** awarded by IJCAI-AIJ (2024)
+* **Conference Travel Grant** awarded by St Hilda's College, University of Oxford (May 2023, February 2024)
+* **Best paper award** at the AI4AD workshop at IJCAI (August 2022)
+* **Best student paper prize** at IJCLR (September 2022)
 
-Experience
+Work Experience
 ======
 * Research Intern at FiveAI, Oxford, UK (2020 - 2021)
   + Topic: Detecting Reflective Symmetries in 3D Models, Computer Vision
@@ -42,10 +44,13 @@ Experience
   + Supervisors: Professor Martin Vechev, Assistant Professor Dana Drachsler Cohen
 
 
-
-Recent Talks
+Selected Presentations
 ======
-* Dagstuhl Seminar on Logic and Neural Networks (February 2025)
+* Civil Service Leadership Group meeting, Imperial College London (June 2025)
+  * Policy-focused meeting hosted by Imperial College London,
+which brought together senior UK civil servants, including the Head of the Civil Service. 
+  * My research was one of only four projects selected for presentation at this event.
+* Dagstuhl Seminar on Logic and Neural Networks, invitation-only (February 2025)
 * IJCAI Doctoral Consortium (August 2024)
 * Oxford Computer Science Conference (June 2024)
 * University of Luxembourg (June 2024)
