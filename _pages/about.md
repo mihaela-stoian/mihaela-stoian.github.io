@@ -23,7 +23,7 @@ redirect_from:
 [//]: # ()
 
 
-I am a final-year PhD student in the [Department of Computer Science](https://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), supervised by Professor Thomas Lukasiewicz.
+I am a final-year PhD student in the [Department of Computer Science](https://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), supervised by [Professor Thomas Lukasiewicz](https://scholar.google.co.uk/citations?user=arjucpEAAAAJ&hl=en).
 In my research, I develop neuro-symbolic methods that integrate background knowledge constraints into neural networks, enforcing them during both training and inference. 
 
 I am particularly interested in incorporating such constraints into deep generative models for synthesising realistic tabular data. 
