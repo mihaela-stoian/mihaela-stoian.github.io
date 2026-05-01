@@ -37,8 +37,8 @@ I completed my Bachelor's and Master's at [The University of Edinburgh](https://
 
 
 ## <span style="color:goldenrod;">News:</span>
-* May 2026: Our paper "[**Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models**](https://arxiv.org/abs/2602.12586)" has been accepted to ICML 2026.
-* February 2026: Our paper "[**A Survey on Deep Learning Approaches for Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, Diversity, and Beyond**](https://openreview.net/forum?id=RoShSRQQ67)" has been accepted to the Transactions on Machine Learning Research (TMLR).
+* May 2026: Our paper [**Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models**](https://arxiv.org/abs/2602.12586) has been accepted to ICML 2026.
+* February 2026: Our paper [**A Survey on Deep Learning Approaches for Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, Diversity, and Beyond**](https://openreview.net/forum?id=RoShSRQQ67) has been accepted to the Transactions on Machine Learning Research (TMLR).
 * May 2025: I received the [**Oxford PhD Runner-up Prize**](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-oxford/) awarded by G-Research.
 * April 2025: Presented at ICLR my [recent work](https://arxiv.org/abs/2502.18237) on deep generative modelling with constraints captured as quantifier-free linear real arithmetic formulae.
 * February 2025: I attended the Dagstuhl Seminar on Logic and Neural Networks and presented the work I conducted during my PhD.
