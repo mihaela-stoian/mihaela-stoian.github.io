@@ -6,8 +6,7 @@ excerpt: "While plan-and-infill decoding in Masked Diffusion Models (MDMs) shows
 date: 2026-05-01
 venue: 'The Proceedings of ICML'
 paperurl: 'https://arxiv.org/abs/2602.12586'
-citation: 'Joshua Ong Jun Leang, Yu Zhao, Mihaela C. Stoian, Wenda Li, Shay B. Cohen, Eleonora Giunchiglia.
-Mihaela C. Stoian, Eleonora Giunchiglia, Thomas Lukasiewicz. A Survey on Deep Learning Approaches for Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, Diversity, and Beyond. In Proceedings of International Conference on Machine Learning (ICML), 2026.'
+citation: 'Joshua Ong Jun Leang, Yu Zhao, Mihaela C. Stoian, Wenda Li, Shay B. Cohen, Eleonora Giunchiglia. Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models. In Proceedings of International Conference on Machine Learning (ICML), 2026.'
 ---
 
 
