@@ -37,6 +37,7 @@ I completed my Bachelor's and Master's at [The University of Edinburgh](https://
 
 
 ## <span style="color:goldenrod;">News:</span>
+* May 2026: Presented my work at the OxBridge Women in CS Conference (selected for oral presentation).
 * May 2026: Our paper [**Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models**](https://arxiv.org/abs/2602.12586) has been accepted to ICML 2026.
 * February 2026: Our paper [**A Survey on Deep Learning Approaches for Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, Diversity, and Beyond**](https://openreview.net/forum?id=RoShSRQQ67) has been accepted to the Transactions on Machine Learning Research (TMLR).
 * May 2025: I received the [**Oxford PhD Runner-up Prize**](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-oxford/) awarded by G-Research.
