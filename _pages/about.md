@@ -23,12 +23,12 @@ redirect_from:
 [//]: # ()
 
 
-I am a Research Associate at [Imperial College London](https://www.imperial.ac.uk/) working on constraining LLMs for theorem proving. 
+I am a Research Associate at [Imperial College London](https://www.imperial.ac.uk/) working on constraining Large Language Models (LLMs) for theorem proving. 
 Recently, I completed my PhD studies in [Computer Science](https://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), under the supervision of [Professor Thomas Lukasiewicz](https://scholar.google.co.uk/citations?user=arjucpEAAAAJ&hl=en).
 In my research, I develop neuro-symbolic methods that integrate background knowledge constraints into neural networks, enforcing them during both training and inference. 
 
-I am particularly interested in incorporating such constraints into deep generative models for synthesising realistic tabular data. 
 During my PhD, I demonstrated that complex constraints&mdash;from linear inequalities to disjunctions over linear inequalities that model non-convex and even disconnected spaces&mdash;can be successfully integrated during training to enhance the quality of synthetic data. 
+Building on this foundation, my current work focuses on building similar constraint-enforcement frameworks that can be integrated into LLMs to enhance their reasoning and theorem-proving capabilities.
 My broader research vision is to bridge the gap between neuro-symbolic AI and real-world applications to build more robust and trustworthy systems. 
 
 Previously, I was part of the research team at [Five AI](https://www.five.ai/research), where I worked on detecting reflective symmetries in 3D models.
