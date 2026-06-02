@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Mihaela Cătălina Stoian"
 title_separator          : "-"
 name                     : &name "Mihaela Cătălina Stoian"
-description              : &description "DPhil student in Computer Science, University of Oxford"
+description              : &description "Research Associate at Imperial College London | DPhil in Computer Science, University of Oxford"
 url                      : https://mihaela-stoian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mihaela-stoian.github.io"
@@ -83,13 +83,13 @@ analytics:
 author:
   name             : "Mihaela C. Stoian"
   avatar           : "profile.png"
-  bio              : "DPhil student in Computer Science at University of Oxford"
-  location         : "Oxford, United Kingdom"
+  bio              : "Research Associate at Imperial College London | DPhil in Computer Science, University of Oxford"
+  location         : "London, United Kingdom"
   employer         :
   pubmed           :
   currentplace     : "https://www.cs.ox.ac.uk/people/mihaela.stoian/"
   googlescholar    : "https://scholar.google.com.co/citations?hl=en&pli=1&user=B_48apwAAAAJ"
-  email            : "mihaela.stoian@cs.ox.ac.uk"
+  email            : m.stoian@imperial.ac.uk  #"mihaela.stoian@cs.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
