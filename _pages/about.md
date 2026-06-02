@@ -30,7 +30,7 @@ I am particularly interested in incorporating such constraints into deep generat
 During my PhD, I demonstrated that complex constraints&mdash;from linear inequalities to disjunctions over linear inequalities that model non-convex and even disconnected spaces&mdash;can be successfully integrated during training to enhance the quality of synthetic data. 
 My broader research vision is to bridge the gap between neuro-symbolic AI and real-world applications to build more robust and trustworthy systems. 
 
-Previously, I worked on detecting reflective symmetries in 3D models at [Five AI](https://www.five.ai/research).
+Previously, I was part of the research team at [Five AI](https://www.five.ai/research), where I worked on detecting reflective symmetries in 3D models.
 I completed my Bachelor's and Master's at [The University of Edinburgh](https://www.ed.ac.uk/), where my Master's thesis, supervised by [Professor Sharon Goldwater](https://scholar.google.co.uk/citations?hl=en&user=_ZxvlzoAAAAJ&view_op=list_works&sortby=pubdate), focused on speech-to-text machine translation.
 
 [//]: # ( My work has been recognised with several awards, including the Oxford PhD Runner-up Prize awarded by G-Research. )
