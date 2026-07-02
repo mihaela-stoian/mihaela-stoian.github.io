@@ -23,10 +23,11 @@ redirect_from:
 [//]: # ()
 
 
-I am a Research Associate at [Imperial College London](https://www.imperial.ac.uk/) working on constraining Large Language Models (LLMs) for theorem proving. 
+I am a Research Associate in the [Data, Uncertainty, Constraints and Knowledge Lab](https://the-duck-lab.github.io/) at [Imperial College London](https://www.imperial.ac.uk/) working on constraining Large Language Models (LLMs) for theorem proving. 
 Recently, I completed my PhD studies in [Computer Science](https://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), under the supervision of [Professor Thomas Lukasiewicz](https://scholar.google.co.uk/citations?user=arjucpEAAAAJ&hl=en).
 In my research, I develop neuro-symbolic methods that integrate background knowledge constraints into neural networks, enforcing them during both training and inference. 
 
+<img src="/images/pishield-dgm-ll.png" alt="Constraining deep generative models for tabular data" style="float:left; width:360px; max-width:50%; margin:5px 20px 10px 0; border:none;"/>
 During my PhD, I demonstrated that complex constraints&mdash;from linear inequalities to disjunctions over linear inequalities that model non-convex and even disconnected spaces&mdash;can be successfully integrated during training to enhance the quality of synthetic data. 
 Building on this foundation, my current work focuses on building similar constraint-enforcement frameworks that can be integrated into LLMs to enhance their reasoning and theorem-proving capabilities.
 My broader research vision is to bridge the gap between neuro-symbolic AI and real-world applications to build more robust and trustworthy systems. 
@@ -35,6 +36,17 @@ Previously, I was part of the research team at [Five AI](https://www.five.ai/res
 I completed my Bachelor's and Master's at [The University of Edinburgh](https://www.ed.ac.uk/), where my Master's thesis, supervised by [Professor Sharon Goldwater](https://scholar.google.co.uk/citations?hl=en&user=_ZxvlzoAAAAJ&view_op=list_works&sortby=pubdate), focused on speech-to-text machine translation.
 
 [//]: # ( My work has been recognised with several awards, including the Oxford PhD Runner-up Prize awarded by G-Research. )
+
+
+## <span style="color:#6b9362;">PiShield</span>
+<a href="https://mihaela-stoian.github.io/PiShield/" target="_blank" rel="noopener"><img src="/images/pishield-logo.png" alt="PiShield logo" style="float:right; width:190px; margin:0 0 10px 20px; border:none;"/></a>
+<a href="https://mihaela-stoian.github.io/PiShield/" target="_blank" rel="noopener"><strong>PiShield</strong></a> &mdash; the first PyTorch package for embedding requirements directly into neural network topologies, guaranteeing that model outputs satisfy the given constraints at both training and inference time. It supports linear inequality constraints, quantifier-free linear real arithmetic, and propositional-logic constraints, with demonstrated gains across autonomous driving, tabular data generation, and functional genomics.
+
+<p align="center">
+  <img src="/images/pishield-overview.png" alt="PiShield overview: a Shield Layer enforces requirements on a deep neural network's output to guarantee requirements satisfaction" style="width:420px; max-width:90%; border:none;"/>
+</p>
+
+I created PiShield in 2024 during my DPhil at the University of Oxford, and I have been its sole maintainer ever since. Try it out in <a href="https://colab.research.google.com/github/mihaela-stoian/PiShield/blob/main/examples/general_usage/PiShield_quickstart.ipynb" target="_blank" rel="noopener">Colab</a>, or install it locally via `pip install pishield`.
 
 
 ## <span style="color:goldenrod;">News</span>
@@ -61,36 +73,59 @@ img {
 </style>
 
 * [Publications](https://mihaela-stoian.github.io/publications/)
+* [PiShield](https://mihaela-stoian.github.io/#pishield)
 * [Service](https://mihaela-stoian.github.io/service/)
 * [CV](https://mihaela-stoian.github.io/cv/) 
 
+[//]: # ()
+[//]: # (<!---)
 
-<!---
-<p align="center">
-<img src="../images/profile/IMG_20230615_141536.jpg" alt="Photo" style="width: 220px;"/> 
-    <img src="../images/profile/IMG_20231123_143104.jpg" alt="Photo" style="width: 220px;"/> 
-  <img src="../images/profile/IMG_20220712_212401.jpg" alt="Photo" style="width: 220px;"/>
-</p>
--->
+[//]: # (<p align="center">)
 
+[//]: # (<img src="../images/profile/IMG_20230615_141536.jpg" alt="Photo" style="width: 220px;"/> )
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 350px;"/>
-  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230407_133724.jpg" alt="Photo" style="width: 350px;"/>
- <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_163947.jpg" alt="Photo" style="width: 350px;"/> 
-  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_164114.jpg" alt="Photo" style="width: 350px;"/> 
-</p>
+[//]: # (    <img src="../images/profile/IMG_20231123_143104.jpg" alt="Photo" style="width: 220px;"/> )
 
-<!--- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 690px;"/> 
-</p>
--->
+[//]: # (  <img src="../images/profile/IMG_20220712_212401.jpg" alt="Photo" style="width: 220px;"/>)
 
-<!---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 620px; height: 450px"/> 
-</p>
--->
+[//]: # (</p>)
+
+[//]: # (-->)
+
+[//]: # ()
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # ( <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 350px;"/>)
+
+[//]: # (  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230407_133724.jpg" alt="Photo" style="width: 350px;"/>)
+
+[//]: # ( <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_163947.jpg" alt="Photo" style="width: 350px;"/> )
+
+[//]: # (  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/IMG_20230501_164114.jpg" alt="Photo" style="width: 350px;"/> )
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<!--- )
+
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 690px;"/> )
+
+[//]: # (</p>)
+
+[//]: # (-->)
+
+[//]: # ()
+[//]: # (<!---)
+
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://raw.githubusercontent.com/mihaela-stoian/mihaela-stoian.github.io/main/images/profile/background_profile2.jpg" alt="Photo" style="width: 620px; height: 450px"/> )
+
+[//]: # (</p>)
+
+[//]: # (-->)
 
 

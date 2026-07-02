@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "PiShield"
+    url: https://mihaela-stoian.github.io/PiShield/
+
   - title: "Service"
     url: /service/
 
