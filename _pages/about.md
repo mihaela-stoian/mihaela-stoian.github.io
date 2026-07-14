@@ -50,6 +50,8 @@ I created PiShield in 2024 during my DPhil at the University of Oxford, and I ha
 
 
 ## <span style="color:goldenrod;">News</span>
+* **July 2026.** I have been awarded one of [Imperial College London's IX-WAI Early Career Grants](https://ix.imperial.ac.uk/).
+* **June 2026.** We released **[Pythagoras-Prover](https://pythagoras-lm.github.io/)**: our family of theorem provers attains 89.8% Pass@32 on MiniF2F-Test  and ranks 1st on PutnamBench among open-source models. The 4B model, which is the smallest model to date for this task, outperforms DeepSeek-Prover-V2-671B while being ~167x smaller. More details [here](https://pythagoras-lm.github.io/).
 * **May 2026.** Presented my work at the OxBridge Women in CS Conference (selected for oral presentation).
 * **May 2026.** Our paper [**Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models**](https://arxiv.org/abs/2602.12586) has been accepted to ICML 2026.
 * **February 2026.** Our paper [**A Survey on Deep Learning Approaches for Tabular Data Generation: Utility, Alignment, Fidelity, Privacy, Diversity, and Beyond**](https://openreview.net/forum?id=RoShSRQQ67) has been accepted to the Transactions on Machine Learning Research (TMLR).
